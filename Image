@@ -1,0 +1,4 @@
+main.py: The main Python file that implements the image processing functionality.
+utils.py: A utility module that provides helper functions for image manipulation.
+images/: A directory containing sample images to use for testing the application.
+requirements.txt: A file specifying the required Python packages and their versions.
